@@ -171,7 +171,9 @@ Sadə qayda:
 
 **VOA — Let's Learn English: Lesson 1 — Welcome!**
 
-Bu videoda başlanğıc səviyyə üçün:
+[▶️ Videoya bax — VOA Learning English](https://learningenglish.voanews.com/a/lets-learn-english-level-1-lesson-1-welcome/3111025.html)
+
+Bu dərsdə:
 
 * salamlaşma;
 * özünü təqdim etmə;
@@ -179,7 +181,7 @@ Bu videoda başlanğıc səviyyə üçün:
 * sadə cümlələr;
 * gündəlik ifadələr
 
-öyrənilir.
+üzərində işləyəcəyik.
 
 ### Videoya baxarkən
 
@@ -189,6 +191,35 @@ Bu videoda başlanğıc səviyyə üçün:
 2. Başa düşdüyün sözləri qeyd et.
 3. İkinci dəfə yenidən bax.
 4. Eşitdiyin sadə cümlələri təkrarla.
+
+---
+
+## 📚 Əlavə materiallar
+
+### Oxford Learner's Dictionaries
+
+Sözlərin mənasını və tələffüzünü yoxlamaq üçün:
+
+[🔊 Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
+
+### British Council — A1 Listening
+
+Əlavə A1 səviyyəli listening məşqləri:
+
+[🎧 British Council — A1 Listening](https://learnenglish.britishcouncil.org/skills/listening/a1-listening)
+
+### British Council — A1 Speaking
+
+Əlavə danışıq məşqləri:
+
+[🗣️ British Council — A1 Speaking](https://learnenglish.britishcouncil.org/skills/speaking/a1-speaking)
+
+### VOA — Let's Learn English Level 1
+
+Başlanğıc səviyyə üçün tam kurs:
+
+[📚 VOA — Let's Learn English Level 1](https://learningenglish.voanews.com/p/5644.html)
+
 
 ---
 
