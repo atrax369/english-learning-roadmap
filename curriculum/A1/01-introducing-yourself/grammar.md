@@ -267,4 +267,42 @@ Boşluqları **am / is / are** ilə doldur.
 
 Düzgün variantı seç.
 
-1. I **(am / is / are**
+1. I **(am / is / are)** a student.
+2. She **(am / is / are)** from Baku.
+3. They **(am / is / are)** teachers.
+4. We **(am / is / are)** friends.
+5. He **(am / is / are)** a student.
+
+---
+
+# 🗣️ 11. Danışıq məşqi
+
+Aşağıdakı cümlələri ucadan de:
+
+**I'm a student.**
+
+**I'm from Azerbaijan.**
+
+**I'm from Baku.**
+
+**He's my friend.**
+
+**She's a teacher.**
+
+**We're students.**
+
+**They're my friends.**
+
+Sonra öz cümlələrini qur.
+
+---
+
+# ✅ 12. Dərsin sonunda bacarmalısan
+
+* [ ] `I am` düzgün istifadə edirəm.
+* [ ] `He is` və `She is` düzgün istifadə edirəm.
+* [ ] `You are`, `We are`, `They are` düzgün istifadə edirəm.
+* [ ] Qısa formaları tanıyıram.
+* [ ] Sadə inkar cümləsi qura bilirəm.
+* [ ] Sadə sual qura bilirəm.
+* [ ] Sadə suallara qısa cavab verə bilirəm.
